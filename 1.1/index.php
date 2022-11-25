@@ -9,9 +9,9 @@
 <body>
 
 <?php
-$name = "Tiesto";
+$name = "hallo wereld!!";
 echo "<h1>$name</h1>";
-echo "<p>hallo</p>";
+echo "<p> ik hou van de werled, xxx Tiesto</p>"
 ?>    
 </body>
 </html>
