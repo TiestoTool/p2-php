@@ -11,7 +11,7 @@
 <?php
 $name = "hallo wereld!!";
 echo "<h1>$name</h1>";
-echo "<p> ik hou van de werled, xxx Tiesto</p>"
+echo "<p> ik hou van de werled, xxx Tiesto</p>";
 ?>    
 </body>
 </html>
