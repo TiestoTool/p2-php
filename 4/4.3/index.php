@@ -10,7 +10,22 @@
     <?php
     
     $varChar = 1;
-    $varChar = 2;
+    $varChar2 = 2;
+    
+    if( $varChar > $varChar2){
+    
+        $varChar = $varChar * 2;
+
+        $uitkomst = $varChar + $varChar2;
+        echo $uitkomst;
+    }
+    else{
+        $varChar2 = $varChar2 * 2;
+
+        $uitkomst = $varChar + $varChar2;
+        echo $uitkomst;
+        }
+    
 
     
     ?>
