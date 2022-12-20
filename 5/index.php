@@ -23,6 +23,22 @@
         <label for="vrouw">vrouw</label>
     </div>
     <input type="text" placeholder = "straat"> <br> <input type="number" placeholder = "huisnummer">
+    <input type="text" placeholder ="stad">
 
+    <!-- select-label -->
+    <div>
+        <label for="country-select"></label>
+        <select name="country" id="country-select">
+            <option value="">country</option>
+            <option value="Nederland">Nederland</option>
+            <option value="Duitsland">Duitsland</option>
+            <option value="België">België</option>
+            <option value="Frankrijk">Frankrijk</option>
+        </select>
+    </div>
+    <!-- email -->
+    <input type="email" placeholder = "email">
+    <input type="password" placeholder = "wachtwoord">
+    <button>send</button>
 </body>
 </html>
